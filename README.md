@@ -2,7 +2,7 @@
 # Michelson Interferometer Simulator
 # ---------------------------------------------------------------
 # This code was developed collaboratively by
-# Prof. Francisco Geraldo and assistant ChatGPT,
+# Prof. Francisco Geraldo and assistant ChatGPT 5.1,
 
 # Objective:
 # To implement an interactive simulation of the operating principle
